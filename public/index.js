@@ -153,4 +153,3 @@ document.querySelector("#sub-btn").onclick = function () {
 };
 
 
-var request = window.indexedDB.open('transaction-db', 3);
