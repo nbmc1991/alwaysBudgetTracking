@@ -1,12 +1,8 @@
 #Always Budget Tracking
 
+Always Budget Tracking is an application that allows the user to enter income and expenses wether they're online or not. If items were entered while offline, when the user gets back online all the expenses will automatically zync.
 
   ![License](https://img.shields.io/badge/License-MIT license%202.0-blue.svg)
-
-  <!-- [![Alt text for your video]()]() -->
-
-
-
 ## Table of Contents:
 
 
