@@ -1,6 +1,6 @@
 ## Always Budget Tracking
 
-Always Budget Tracking is an application that allows the user to enter income and expenses wether they're online or not. If items were entered while offline, when the user gets back online all the expenses will automatically zync.
+
 
 ## Table of Contents:
 
@@ -36,7 +36,7 @@ To install dependencies run:
 npm i 
 
 ## Usage 
-
+User can enter income and expenses. Appliation can be used online and offline. Input will automatically sync when back online.
 To keep track of income and expenses.
   ![](https://github.com/nbmc1991/alwaysBudgetTracking/blob/main/public/abtshot.png?raw=true)
 
