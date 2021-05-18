@@ -3,9 +3,8 @@
 
   ![License](https://img.shields.io/badge/License-MIT license%202.0-blue.svg)
 
-  [![Alt text for your video]()]()
+  <!-- [![Alt text for your video]()]() -->
 
-  ![]()
 
 
 ## Table of Contents:
@@ -44,6 +43,7 @@ npm i
 ## Usage 
 
 To keep track of income and expenses.
+  ![](https://github.com/nbmc1991/alwaysBudgetTracking/blob/main/public/abtshot.png?raw=true)
 
 ## Contributing
 
